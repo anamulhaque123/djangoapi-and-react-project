@@ -38,7 +38,7 @@ Django 3.2.5
     "corsheaders",
     'rest_framework.authtoken'
     
-#   npm create vite@latest  [https://vitejs.dev/guide/]
+#   npm create vite@latest  [https://vitejs.dev/guide/][https://ordinarycoders.com/blog/article/django-react-crud-application] [https://create-react-app.dev/docs/getting-started]
       √ Project name: ... reactfortend
      √ Select a framework: » React
      √ Select a variant: » JavaScript
@@ -54,7 +54,6 @@ Django 3.2.5
 #src/index.js or App.js file : import 'bootstrap/dist/css/bootstrap.min.css';
 
 #npm install –save font-awesome
-
 
 
 #npm run dev
