@@ -22,13 +22,31 @@
  
 #9 python manage.py createsuperuser
 
-#10 python manage.py runserver
+#10 python manage.py runserver 0.0.0.0:5050
 
  #11  pipenv install djangorestframework django-cors-headers
 
 #10 version
 
 djangorestframework 3.12.4
-djangorestframework-simplejwt 5.2.2
+
 Django 3.2.5
+
+# add  setting.py : 'djangobackend_api',
+    #third party
+    'rest_framework',
+    "corsheaders",
+    'rest_framework.authtoken'
+    
+#   npm create vite@latest  [https://vitejs.dev/guide/]
+      √ Project name: ... reactfortend
+     √ Select a framework: » React
+     √ Select a variant: » JavaScript
+
+# CD reactfortend  
+
+# npm install
+
+#npm run dev
+
 
