@@ -47,6 +47,16 @@ Django 3.2.5
 
 # npm install
 
+#npm install axios
+
+#npm install react-bootstrap bootstrap@5.1.3
+
+#src/index.js or App.js file : import 'bootstrap/dist/css/bootstrap.min.css';
+
+#npm install –save font-awesome
+
+
+
 #npm run dev
 
 
